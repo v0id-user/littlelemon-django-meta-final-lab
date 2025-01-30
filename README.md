@@ -1,6 +1,6 @@
 # Little Lemon Restaurant
 
-This a the final lab from [Meta's Django course](https://www.coursera.org/learn/django-web-framework). Where I'm required to built upon and improve a restaurant website called "Little Lemon".
+This is my solution to the final lab from [Meta's Django course](https://www.coursera.org/learn/django-web-framework). Where I'm required to built upon and improve a restaurant website called "Little Lemon".
 
 # Little Lemon Restaurant To-Do List
 
@@ -10,12 +10,13 @@ This a the final lab from [Meta's Django course](https://www.coursera.org/learn/
   - [ ] Create the Menu Item page
 
 ## Learner Instructions
-- [ ] The Little Lemon website will have five pages:
-  - [ ] Home
-  - [ ] About
-  - [ ] Booking
-  - [ ] Menu
-  - [ ] Menu Item
+- The Little Lemon website will have five pages:
+  - Home
+  - About
+  - Booking
+  - Menu
+  - Menu Item
+
 - [ ] Modify the following files:
   - [ ] settings.py
   - [ ] urls.py (app-level)
