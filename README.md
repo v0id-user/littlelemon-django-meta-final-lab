@@ -5,9 +5,9 @@ This is my solution to the final lab from [Meta's Django course](https://www.cou
 # Little Lemon Restaurant To-Do List
 
 ## Goal
-- [ ] Build two pages for the web app:
-  - [ ] Create the Menu page
-  - [ ] Create the Menu Item page
+- [x] Build two pages for the web app:
+  - [x] Create the Menu page
+  - [x] Create the Menu Item page
 
 ## Learner Instructions
 - The Little Lemon website will have five pages:
