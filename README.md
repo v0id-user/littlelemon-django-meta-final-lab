@@ -17,14 +17,14 @@ This is my solution to the final lab from [Meta's Django course](https://www.cou
   - Menu
   - Menu Item
 
-- [ ] Modify the following files:
-  - [ ] settings.py
-  - [ ] urls.py (app-level)
-  - [ ] models.py
-  - [ ] views.py
-  - [ ] admin.py
-  - [ ] templates/menu.html
-  - [ ] templates/menu_item.html
+- [x] Modify the following files:
+  - [x] settings.py
+  - [x] urls.py (app-level)
+  - [x] models.py
+  - [x] views.py
+  - [x] admin.py
+  - [x] templates/menu.html
+  - [x] templates/menu_item.html
   - [ ] templates/partials/_footer.html
 
 ## Steps
