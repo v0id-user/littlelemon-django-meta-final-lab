@@ -2,6 +2,18 @@
 
 This is my solution to the final lab from [Meta's Django course](https://www.coursera.org/learn/django-web-framework). Where I'm required to built upon and improve a restaurant website called "Little Lemon".
 
+# Setup
+```
+# I use uv package manager to setup virtual environment and install django
+uv venv
+uv pip install -r requirements.txt
+
+# If you don't use uv, you can use pip instead
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 # Little Lemon Restaurant To-Do List
 
 ## Goal
@@ -58,10 +70,10 @@ This is my solution to the final lab from [Meta's Django course](https://www.cou
 - [x] Step 9: Run migrations and server, then check menu item page.
 
 ### Part 3 – Create the footer template
-- [ ] Step 1: Update _footer.html with footer code.
-- [ ] Step 2: Replace image source in _footer.html.
-- [ ] Step 3: Include footer in base.html.
+- [x] Step 1: Update _footer.html with footer code.
+- [x] Step 2: Replace image source in _footer.html.
+- [x] Step 3: Include footer in base.html.
 
 ## Additional Steps
-- [ ] Make a reservation on the Little Lemon website.
-- [ ] Check reservation data in the database.
+- [x] Make a reservation on the Little Lemon website.
+- [x] Check reservation data in the database.
